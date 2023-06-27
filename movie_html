@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="movie.css">
+    </head>
+    <body>
+        <h3 class="heading">SEARCH MOVIES...</h3>
+        <input type="text" id="search">
+        <input type="submit"value="Search" id="button">
+        <div id="box"></div>
+        <script src="movie.js"></script>
+    </body>
+</html>
+
